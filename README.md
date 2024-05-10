@@ -4,6 +4,7 @@ Software and idea sharing for the IRA-EDA Active Acoustics Strategic Initiative
 # **Vision Statement**
 **Revolutionize and expand opportunities for active acoustic data in ecosystem-based fisheries science and management through a NOAA-wide program that advances analytical methods for multi-disciplinary data collected from innovative platforms.**
 
+![AA-SI_cloud-notes](https://github.com/nmfs-fish-tools/AA-SI/assets/31130924/feb7e1a1-16ad-42b3-b987-607431ebf078)
 
 # Background
 _Add IRA & EDA stuff here_
