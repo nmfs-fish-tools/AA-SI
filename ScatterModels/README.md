@@ -1,1 +1,10 @@
+# Acoustic Scattering Models
+Information for implementing acoustic scattering models on the web. The main Github site is under the ICES organization (link TBD).
 
+# Background
+The AA-SI requires software expertise to develop advanced analytical methods for echo classification using analytical models that predict acoustic backscatter (e.g., target strength, TS, dB re m<sup>2</sup>). These models and predictions can be used to inform echo classification by validating empirical measurements and generating training data for machine learning (ML), artificial intelligence (AI), and other advanced analytical methods, such as inverse methods. Application of these models to fish and plankton requires anatomical and morphological data that are easily accessible and available to the models.
+
+The goal of this project is to make acoustic scattering models available to fisheries and plankton acoustic scientists via the world wide web. By providing the models in an open-access and open-source software language (e.g, Python, R) and providing morphological and anatomical data in open data formats (e.g., HDF5, relational database), the proper and appropriate use of these models can extend to the entire fisheries and plankton acoustics’ community.
+
+# Scattering Models
+The initial set of acoustic scattering models will be those used by [Jech et al. (2015)](https://doi.org/10.1121/1.4937607) (Comparisons among ten models of acoustic backscattering used in aquatic ecosystem research. JASA. 138(6): 3742-3764). Acoustic model coding will follow 3 - 4 phases, where the first phase will focus on exact solutions and canonical shapes (Table 1), the second phase will focus on approximate analytical models applied to canonical shapes (Table 2), the third phase will focus on approximate analytical models applied to complex shapes approximating biological targets such as fish and zooplankton, and the fourth phase (if funding and time allows) will focus on numerical models applied to canonical shapes and biological targets.
