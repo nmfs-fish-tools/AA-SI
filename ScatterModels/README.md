@@ -28,9 +28,9 @@ The initial set of acoustic scattering models will be those used by [Jech et al.
 |  |  | Gas-filled | 2,4,5 |
 | Infinite cylinder? |  |  | 3 |
 | Infinite plane? |  |  |  |
-1. Anderson, V. C. 1950. Sound scattering from a fluid sphere. JASA. 22(4): 426-431
-2. Jech et al. 2015. Comparisons among ten models of acoustic backscattering used in aquatic ecosystem research. JASA. 138: 3742-3764
-3. Faran, J. J. 1951. Sound scattering by solid cylinders and spheres. JASA. 23(4): 405-418
+1. [Anderson, V. C. 1950. Sound scattering from a fluid sphere. JASA. 22(4): 426-431](https://doi.org/10.1121/1.1906621)
+2. [Jech et al. 2015. Comparisons among ten models of acoustic backscattering used in aquatic ecosystem research. JASA. 138: 3742-3764](https://doi.org/10.1121/1.4937607)
+3. [Faran, J. J. 1951. Sound scattering by solid cylinders and spheres. JASA. 23(4): 405-418.](https://doi.org/10.1121/1.1906621)
 4. Skudrzyk. 1971. The Foundations of Acoustics (Springer, NY), pp. 455-465.
 5. Furusawa. 1988. Prolate spheroidal models for predicting general trends of fish target strength,” J. Acoust. Soc. Jpn. (E) 9, 13–14.
 
@@ -68,8 +68,8 @@ The initial set of acoustic scattering models will be those used by [Jech et al.
 |  | Prolate spheroid | Weakly scattering | 13,14,15 |
 |  | Finite cylinder | Weakly scattering | 13,14,15 |
 
-1. Stanton. 1988. Sound scattering by cylinders of finite length. I. Fluid cylinders. JASA. 83, 55–63.
-2. Stanton. 1989. Sound scattering by cylinders of finite length. III. Deformed cylinders. JASA. 86: 691-705
+1. [Stanton. 1988. Sound scattering by cylinders of finite length. I. Fluid cylinders. JASA. 83, 55–63.](https://doi.org/10.1121/1.396184)
+2. [Stanton. 1989. Sound scattering by cylinders of finite length. III. Deformed cylinders. JASA. 86: 691-705](https://doi.org/10.1121/1.398193)
 3. Jech et al. 2015. Comparisons among ten models of acoustic backscattering used in aquatic ecosystem research. JASA. 138: 3742-3764
 4. Foote. 1985. Rather-high-frequency sound scattering by swimbladdered fish. JASA. 78: 688-700
 5. Foote and Francis. 2002. Comparing Kirchhoff approximation and boundary-element models for computing gadoid target strengths. JASA. 111: 1644-1654
