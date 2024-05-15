@@ -8,3 +8,11 @@ The goal of this project is to make acoustic scattering models available to fish
 
 # Scattering Models
 The initial set of acoustic scattering models will be those used by [Jech et al. (2015)](https://doi.org/10.1121/1.4937607) (Comparisons among ten models of acoustic backscattering used in aquatic ecosystem research. JASA. 138(6): 3742-3764). Acoustic model coding will follow 3 - 4 phases, where the first phase will focus on exact solutions and canonical shapes (Table 1), the second phase will focus on approximate analytical models applied to canonical shapes (Table 2), the third phase will focus on approximate analytical models applied to complex shapes approximating biological targets such as fish and zooplankton, and the fourth phase (if funding and time allows) will focus on numerical models applied to canonical shapes and biological targets.
+
+| Model                             | Shape  | Description | References |
+|-----------------------------------|--------|-------------|------------|
+| Modal Series<br> solution (MSS)   | Sphere | Fluid       | 1,2        |
+|                                   |        | Fixed-rigid | 2,3        |
+|                                   |        | Pressure-release | 2     |
+|  | | Fluid-filled | 1,2 |
+
