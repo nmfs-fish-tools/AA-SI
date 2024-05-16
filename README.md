@@ -4,7 +4,7 @@ Software and idea sharing for the IRA-EDA Active Acoustics Strategic Initiative
 # **Vision Statement**
 **Revolutionize and expand opportunities for active acoustic data in ecosystem-based fisheries science and management through a NOAA-wide program that advances analytical methods for multi-disciplinary data collected from innovative platforms.**
 
-<img src="https://github.com/nmfs-fish-tools/AA-SI/assets/31130924/639117aa-7484-4fa0-ba59-0a8dc625539f" width="600" height="500" align="right" />
+<img src="https://github.com/nmfs-fish-tools/AA-SI/assets/31130924/eb27c8ce-1d30-4706-92b8-cf5c4749189b" width="600" height="500" align="right" />
 
 # Background
 The Active Acoustics Strategic Initiative (AA-SI) is a NOAA-Fisheries Essential Data Acquisition (EDA) project funded by the Inflation Reduction Act (IRA). It is a three-year project, with funding until the end of fiscal year 2026.
