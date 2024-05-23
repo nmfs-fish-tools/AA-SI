@@ -1,5 +1,5 @@
 # Acoustic Scattering Models
-Information for implementing acoustic scattering models on the web. The main Github site is under the ICES organization (link TBD).
+Information for implementing acoustic scattering models on the web. The main Github repository is under the ICES organization, [echoSMs](https://github.com/ices-tools-dev/echoSMs/tree/main).
 
 # Background
 The AA-SI requires software expertise to develop advanced analytical methods for echo classification using analytical models that predict acoustic backscatter (e.g., target strength, TS, dB re m<sup>2</sup>). These models and predictions can be used to inform echo classification by validating empirical measurements and generating training data for machine learning (ML), artificial intelligence (AI), and other advanced analytical methods, such as inverse methods. Application of these models to fish and plankton requires anatomical and morphological data that are easily accessible and available to the models.
