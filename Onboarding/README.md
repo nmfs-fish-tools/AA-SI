@@ -3,4 +3,10 @@
 # Background
 
 
-# Data collection
+# Data collection: Equipment
+
+
+# Data collection: Formats
+
+
+# Data standardization
